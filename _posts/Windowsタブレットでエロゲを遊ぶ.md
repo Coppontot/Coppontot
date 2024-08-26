@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Windowsタブレットでエロゲを遊ぶ"
 date:   2024-08-26
 author: こっぽんとっと
