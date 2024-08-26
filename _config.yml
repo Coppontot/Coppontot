@@ -78,14 +78,14 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: コッポントットくん🐖
+    url: https://x.com/koseinodesukara
     desc: Follow me on Twitter
     share: true
 
-  - name: Facebook
+  - name: Bluesky
     icon: facebook
-    username: thebencentra
+    username: こぽぽんとっと
     url: ""
     desc: Friend me on Facebook
     share: true
