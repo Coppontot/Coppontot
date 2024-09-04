@@ -3,7 +3,7 @@ layout: post
 title:  "Windowsタブレットでエロゲを遊ぶ"
 date:   2024-08-26
 author: こっぽんとっと
-categories: エロゲプレイスタイル
+categories: Dummy
 ---
 
 はじめまして、こっぽんとっとと申します。エロゲーマーです。
